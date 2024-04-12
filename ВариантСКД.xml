@@ -10,7 +10,7 @@
 			<dataPath>Склад</dataPath>
 			<field>Склад</field>
 			<role>
-				<dcscom:dimension>true</dcscom:dimension
+				<dcscom:dimension>true</dcscom:dimension>
 			</role>
 			<appearance/>
 			<inputParameters/>
